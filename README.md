@@ -11,6 +11,7 @@ I am Chris, a
 
 #### Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Building a portable GIF player](https://www.wiomoc.de/misc/posts/gif_player.html)
 <!-- BLOG-POST-LIST:END -->
 
 
