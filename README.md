@@ -12,3 +12,8 @@ I am Chris, a
 #### Blog posts
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
+
+
+[Website](https://wiomoc.de)
+[LinkedIn](https://www.linkedin.com/in/christoph-walcher-494854180/)
+[Stackoverflow](https://stackoverflow.com/users/5048815/wiomoc)
