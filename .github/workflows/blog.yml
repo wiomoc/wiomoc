@@ -11,4 +11,4 @@ jobs:
       - name: Pull in dev.to posts
         uses: gautamkrishnar/blog-post-workflow@master
         with:
-          feed_list: "http://wiomoc.de.s3-website.eu-central-1.amazonaws.com/misc/rss.xml"
+          feed_list: "https://wiomoc.de/misc/rss.xml"
