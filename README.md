@@ -11,6 +11,7 @@ I am Chris, a
 
 #### Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Exploring Apple&#39;s MFI protocol iAP2](https://wiomoc.de/misc/posts/mfi_iap.html)
 - [Building a portable GIF player](https://wiomoc.de/misc/posts/gif_player.html)
 <!-- BLOG-POST-LIST:END -->
 
