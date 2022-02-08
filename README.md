@@ -11,6 +11,7 @@ I am Chris, a
 
 #### Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Using AWS CloudFront Functions for distribution of a Shopify Admin App](https://wiomoc.de/misc/posts/aws_cf_functions.html)
 - [Exploring Apple&#39;s MFI protocol iAP2](https://wiomoc.de/misc/posts/mfi_iap.html)
 - [Building a portable GIF player](https://wiomoc.de/misc/posts/gif_player.html)
 <!-- BLOG-POST-LIST:END -->
