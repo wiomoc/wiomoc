@@ -11,6 +11,7 @@ I am Chris, a
 
 #### Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Using a POS Printer to get my day organized](https://wiomoc.de/misc/posts/daily_print.html)
 - [Making an old DMX Led Spot &quot;smart&quot;](https://wiomoc.de/misc/posts/esp_dmx.html)
 - [Using AWS CloudFront Functions for distribution of a Shopify Admin App](https://wiomoc.de/misc/posts/aws_cf_functions.html)
 - [Exploring Apple&#39;s MFI protocol iAP2](https://wiomoc.de/misc/posts/mfi_iap.html)
