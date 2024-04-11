@@ -2,11 +2,10 @@
 
 I am Chris, a
 * CS master student👨‍🎓
-* part-time software developer🧑‍💻 on a charging station managment software ⚡️⛽️
+* part-time software developer🧑‍💻
 * open source lover💚
 * hobby guitarist🎸
 * swimmer🏊‍♂️
-* and beer drinker🍻
 
 
 #### Blog posts
