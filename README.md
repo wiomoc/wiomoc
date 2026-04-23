@@ -1,12 +1,12 @@
 ### Hey, glad you found me 🙌
 
-I am Chris, a
-* CS master student👨‍🎓
-* part-time software developer🧑‍💻
-* open source lover💚
-* hobby guitarist🎸
-* swimmer🏊‍♂️
+I am Christoph, a
+* Software developer focused on system software & developer tools 🧑‍💻
+* Open source enthusiast (and contributor)💚
+* Hobby guitarist 🎸
+* Swimmer chasing the edge of the pool back and forth 🏊‍♂️
 
+If it involves large-code bases, clean abstractions, low-level quirks, or a good groove, I’m probably into it.
 
 #### Blog posts
 <!-- BLOG-POST-LIST:START -->
