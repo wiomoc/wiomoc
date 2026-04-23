@@ -10,6 +10,7 @@ If it involves large-code bases, clean abstractions, low-level quirks, or a good
 
 #### Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Hacking Coroutines into C](https://wiomoc.de/misc/posts/hacking_coroutines_into_c.html)
 - [Using a POS Printer to get my day organized](https://wiomoc.de/misc/posts/daily_print.html)
 - [Making an old DMX Led Spot &quot;smart&quot;](https://wiomoc.de/misc/posts/esp_dmx.html)
 - [Using AWS CloudFront Functions for distribution of a Shopify Admin App](https://wiomoc.de/misc/posts/aws_cf_functions.html)
